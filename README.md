@@ -32,5 +32,6 @@
 
   [![Stats](https://github-readme-stats.vercel.app/api?username=bishutalai07&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=bishutalai07&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
   ![bishutalai07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishutalai07&theme=vue-dark&hide_border=true)
-
   
+
+  <p class="fs-6 text-capitalize" align="center"> Thank You for visit! ❤ from Bishu</p>
