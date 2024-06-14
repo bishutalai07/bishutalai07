@@ -11,7 +11,18 @@
 - 📫 How to reach me **bishutalai.nic@gmail.com**
 - 😄 Pronouns: He / Him
 
-  
+---
+<br>
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)]([https://open.spotify.com/user/31lrcvukfauz74prk2w2mulsfzya](https://open.spotify.com/user/31lrcvukfauz74prk2w2mulsfzya?si=abaed5fb4c1848bb&nd=1&dlsi=9d833225b26d40d3))
+
+
+---
+
+<br>
+
 ## 📫 How to reach me:
   
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/bishutalai)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/bindas.bishu)  &nbsp; <a href="mailto:bishutalai.nic@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
