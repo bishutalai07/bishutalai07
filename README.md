@@ -12,7 +12,7 @@
 - 😄 Pronouns: He / Him
 
 ---
-<br>
+<!-- <br>
 
 ### Now Playing 🎧
 
@@ -21,7 +21,7 @@
 
 ---
 
-<br>
+<br> -->
 
 ## 📫 How to reach me:
   
